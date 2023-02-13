@@ -2,3 +2,5 @@
 chmod 774 hello
 #!/bin/bash
 chmod 774 hello
+#!/bin/bash
+chmod 774 hello
